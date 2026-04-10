@@ -1,1 +1,25 @@
-
+{
+  "catalog_version": 2,
+  "sounds": [
+    {
+      "id": 90001,
+      "title": {
+        "en": "Cyber Click",
+        "pt": "Clique Cibernético"
+      },
+      "category": "MODERN",
+      "audio_url": "https://oliveirarodolfo.github.io/gamesounds-catalog/sounds/modern/cyber_click.mp3",
+      "is_premium": false
+    },
+    {
+      "id": 90002,
+      "title": {
+        "en": "Neon Synth Loop",
+        "pt": "Loop de Sintetizador Neon"
+      },
+      "category": "MODERN",
+      "audio_url": "https://oliveirarodolfo.github.io/gamesounds-catalog/sounds/modern/neon_synth.mp3",
+      "is_premium": true
+    }
+  ]
+}
